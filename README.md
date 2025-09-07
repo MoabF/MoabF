@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, me chamo Moab Varela! 👋
 
 <!--
 **MoabF/MoabF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+- 🌱 Estou aprendendo sobre Projeto de interface usuário.
+- 📫 Como me encontrar: [moabfreddossanto@gmail.com](mailto:moabfreddossanto@gmail.com)
 ### Tecnologias que já usei:
 
 <div style="display: inline_block"><br>
