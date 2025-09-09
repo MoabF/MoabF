@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-- 🌱 Estou aprendendo sobre Projeto de interface usuário.
+- 🌱 Estou aprendendo sobre Projeto de interfaces de usuário.
 - 📫 Como me encontrar: [moabfreddossanto@gmail.com](mailto:moabfreddossanto@gmail.com)
 ### Tecnologias que já usei:
 
